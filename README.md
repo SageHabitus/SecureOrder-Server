@@ -1,4 +1,4 @@
-# 프로젝트 소개: SecureOrder (TBD)
+SecureOrder-Server (TBD)
 
 ---
 
